@@ -13,7 +13,7 @@ A simple and useful weather dashboard that will tell you current and future info
 
 
 ## Screenshots
-[Weather Dashboard](https://timbirict.github.io/Weather-Dashboard/)
+[Weather Dashboard](https://timbirict.github.io/Weather-finished/)
 
 ![Weather Dashboard](./img/weatherdash.png)
 
